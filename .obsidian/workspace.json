@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "f7f4a99d031f5f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af26dea49e474f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd1b5880c3a0dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hub"
+            }
+          },
+          {
+            "id": "f0bb88ba549f2480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hub"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dac4a4ffa9c7df58",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6bf13f41f1e78df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198470597b284a85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25d1a97692876437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35e510c497092798",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67a15726c59f7cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1d3ed3ecb5eaab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6921dd2bd168c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_templates/Job App Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Job App Template"
+            }
+          },
+          {
+            "id": "7e22ae486a0d26b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_templates/Job App Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Job App Template"
+            }
+          },
+          {
+            "id": "0cc3d4dc569e26a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e1f0393438336e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_templates/Job App Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Job App Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f0bb88ba549f2480",
+  "lastOpenFiles": [
+    "README.md",
+    "Hub.md",
+    "job_apps/Testing 3 - turd.md",
+    "job_apps/Testing - turd wranger.md",
+    "job_apps/Rev.io - Junior Engineer.md",
+    "_templates/Update Status.md",
+    "_templates/Job App Template.md",
+    "_scripts/updateStatus.js",
+    "job_apps/testing 3 - turd wrangler.md",
+    "job_apps/test - trgdafsdfdsf.md",
+    "job_apps/tesing - fjdksla.md",
+    "job_apps/Testing - butts.md",
+    "job_apps/fdsa - fdsa.md",
+    "job_apps/testing 2 - butts.md",
+    "job_apps/Rev.io - Buttfucker.md",
+    "job_apps/jfdks - jfkdls.md",
+    "job_apps/rev.io - software engineer.md",
+    "asd - asd.md",
+    "turd - butts.md",
+    "rev.io - junior engineer.md",
+    "turd - ferguson.md",
+    "jfkdls;a - jfklds;a.md",
+    "Rev.io - buttfucker.md",
+    "Rev.io - junior engineer.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "_scripts/jobApp.js"
+  ]
+}
