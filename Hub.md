@@ -1,7 +1,7 @@
 # Job Status
 
 ```dataviewjs
-let jobApps = dv.pages('"job_apps"').groupBy(app => app.Status); 
+let jobApps = dv.pages('"job_apps"').groupBy(app => app.status); 
 for (let group of jobApps) { 
     dv.header(3, group.key); 
     dv.table(
@@ -15,9 +15,6 @@ for (let group of jobApps) {
     ); 
 }
 ```
-
-
-
 
 
 
